@@ -1,8 +1,8 @@
 # branch_pred
 
-Simulator.java: main function
-Util.java: util functions for branch prediction
-Predictor.java: predictor including bimodal, gshare and hybrid
-hybrid.java: hybrid predictor
-gshare.java: gsahre predictor
-bimodal.java: bimodal predictor
+Simulator.java: main function <br>
+Util.java: util functions for branch prediction <br>
+Predictor.java: predictor including bimodal, gshare and hybrid <br>
+hybrid.java: hybrid predictor <br>
+gshare.java: gsahre predictor<br>
+bimodal.java: bimodal predictor<br>
